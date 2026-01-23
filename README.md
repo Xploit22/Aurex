@@ -59,8 +59,9 @@ To access the secure administrative terminal:
 2. Enter the administrative credentials.
 
 **Default Credentials:**
-- **Identity (Username)**: `ash#404`
-- **Secret Key (Password)**: `myaj!`
+- **Identity (Username)**: `******`
+- **Secret Key (Password)**: `*****
+!`
 
 > [!IMPORTANT]
 > You can modify these credentials in the `src/constants.ts` file before deployment.
